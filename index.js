@@ -10,3 +10,9 @@ const lastName = "Macgregor"
 const firstName = "Jono"
 console.log(lastName)
 console.log(firstName)
+
+const numOne = 12
+const numTwo = 5
+
+const result = numTwo % numOne
+console.log(result)
